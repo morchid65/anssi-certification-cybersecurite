@@ -17,7 +17,7 @@ Renforcer mes fondamentaux en cybersécurité pour les intégrer dans mes projet
 
 ## 🖼️ Attestation
 
-![Attestation ANSSI](./attestation-anssi.jpg)
+![Attestation ANSSI](./certification-bases-cybersecurite-anssi-mooc.PNG)
 
 > *“Le code est un sanctuaire. La sécurité est son bouclier.”*
 
